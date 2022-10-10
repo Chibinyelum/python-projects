@@ -1,5 +1,4 @@
 import colorsys
-from this import d
 import turtle
 
 t = turtle.Turtle()
